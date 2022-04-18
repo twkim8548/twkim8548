@@ -1,13 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=TaewoongKim&fontSize=100)
 <br>
-
+### Beakjoon
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twkim8548)](https://solved.ac/twkim8548)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=twkim8548&theme=warm)
-<br>
+<br><br>
+
+### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twkim8548)](https://github.com/twkim8548/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twkim8548)](https://github.com/twkim8548/github-readme-stats)
 <br>
-<br>
+
+### Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=twkim8548)](https://velog.io/@twkim8548)
+<br><br>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 <!--
