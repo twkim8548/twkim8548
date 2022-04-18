@@ -6,8 +6,8 @@
 <br><br>
 
 ### Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twkim8548)](https://github.com/twkim8548/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twkim8548)](https://github.com/twkim8548/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twkim8548)](https://github.com/twkim8548)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twkim8548&show_icons=true&theme=radical)(https://github.com/twkim8548)
 <br>
 
 ### Velog
