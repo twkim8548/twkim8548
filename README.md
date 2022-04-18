@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twkim8548)](https://solved.ac/twkim8548)
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={twkim8548}&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twkim8548)](https://github.com/twkim8548/github-readme-stats)
 <!--
 **twkim8548/twkim8548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
