@@ -1,7 +1,15 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=TaewoongKim&fontSize=100)
+<br>
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twkim8548)](https://solved.ac/twkim8548)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=twkim8548&theme=warm)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twkim8548)](https://github.com/twkim8548/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twkim8548)](https://github.com/twkim8548/github-readme-stats)
+<br>
+<br>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 <!--
 **twkim8548/twkim8548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
