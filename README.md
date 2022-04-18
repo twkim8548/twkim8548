@@ -1,21 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=TaewoongKim&fontSize=100)
 <br>
-### Baekjoon
+<h3> Baekjoon </h3>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twkim8548)](https://solved.ac/twkim8548)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=twkim8548&theme=warm)
 <br><br>
 
-### Language
+<h3> Language </h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twkim8548&layout=compact)](https://github.com/twkim8548)
 <br>
 
-### Github
+<h3> Github </h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twkim8548&show_icons=true&theme=radical)](https://github.com/twkim8548)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftwkim8548&count_bg=%23252525&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-### Velog
+<h3> 📖 Velog </h3>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=twkim8548)](https://velog.io/@twkim8548)
 <br><br>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
