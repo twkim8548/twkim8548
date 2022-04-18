@@ -1,7 +1,7 @@
 <p>
   <div align="center"> 
 <a href="https://github.com/twkim8548">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=300&section=header&text=TaewoongKim&fontSize=90&animation=twinkling" /></a>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=300&section=header&text=TaewoongKim&fontSize=90&animation=twinkling&fontColor=ffffff" /></a>
 </div>
 <br>
 </p>
