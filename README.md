@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=TaewoongKim&fontSize=100)
 <br>
-### Beakjoon
+### Baekjoon
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twkim8548)](https://solved.ac/twkim8548)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=twkim8548&theme=warm)
 <br><br>
