@@ -23,8 +23,8 @@
 </p>
 <h3 align="center"> 📖 Velog </h3>
 <p align="center">
-  <a href="https://github.com/eungyeole/velog-readme-stats"><img src="https://velog-readme-stats.vercel.app/api?name=twkim8548&amp;slug=Android-In-App-Update" alt="Velog&#39;s GitHub stats"></a><br>
-  <a href="https://github.com/eungyeole/velog-readme-stats"><img src="https://velog-readme-stats.vercel.app/api?name=twkim8548&amp;slug=Nginx에서-SSL-적용해서-Https-로-접속-되게-해볼까" alt="Velog&#39;s GitHub stats"></a>
+  <a href="https://velog.io/@twkim8548/Android-In-App-Update"><img src="https://velog-readme-stats.vercel.app/api?name=twkim8548&amp;slug=Android-In-App-Update" alt="Velog&#39;s GitHub stats"></a><br>
+  <a href="https://velog.io/@twkim8548/Nginx%EC%97%90%EC%84%9C-SSL-%EC%A0%81%EC%9A%A9%ED%95%B4%EC%84%9C-Https-%EB%A1%9C-%EC%A0%91%EC%86%8D-%EB%90%98%EA%B2%8C-%ED%95%B4%EB%B3%BC%EA%B9%8C"><img src="https://velog-readme-stats.vercel.app/api?name=twkim8548&amp;slug=Nginx에서-SSL-적용해서-Https-로-접속-되게-해볼까" alt="Velog&#39;s GitHub stats"></a>
 </p>
 <br>
 <h3 align="center"> 🛠  Stack & Tool </h3>
