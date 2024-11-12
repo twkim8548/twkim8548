@@ -4,6 +4,16 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=300&section=header&text=TaewoongKim&fontSize=90&animation=twinkling&fontColor=ffffff" /></a>
 </div>
 <br>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/twkim8548"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
+<br>
 </p>
 <p><h3 align="center"> 🧐 Baekjoon </h3></p>
 <p align="center">
