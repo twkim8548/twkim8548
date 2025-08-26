@@ -1,6 +1,6 @@
 <p>
   <div align="center">
-  <img src="https://tech-stack.wontory.dev/api/orbit?text=Woong&slugs=react,nextdotjs,nodedotjs,nestjs,typescript,javascript,intellijidea" alt="Tech Stack" />
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=Woong&slugs=react,nextdotjs,nodedotjs,nestjs,typescript,javascript,intellijidea,tailwindcss" alt="Tech Stack" />
 </div>
   <div align="center"> 
 <a href="https://github.com/twkim8548">
